@@ -1,6 +1,7 @@
 import Counter from './Counter';
 import Greeting from './Greeting';
 import React, {useState} from 'react';
+import TodoList from './TodoList';
 
 //komponen header
 function Header(){
@@ -68,6 +69,7 @@ function App(){
       <Greeting name="Kaka" />
       <Counter />
       <Example />
+      <TodoList />
       <Footer />
     </div>
   );
