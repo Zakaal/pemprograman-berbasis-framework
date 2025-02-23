@@ -48,8 +48,8 @@
 
 ### Output : 
 
-<img src="assets/soal/output.png" width="700"/>
+<img src="assets/soal/Output.png" width="700"/>
 
-<img src="assets/soal/output2.png" width="700"/>
+<img src="assets/soal/Output2.png" width="700"/>
     
 
