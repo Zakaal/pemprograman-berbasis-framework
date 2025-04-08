@@ -122,7 +122,7 @@
 
     - Output : 
 
-        <img src="assets/s/1B.png" width="700">
+        <img src="assets/s/1b.png" width="700">
 
 2. **Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik**
 
