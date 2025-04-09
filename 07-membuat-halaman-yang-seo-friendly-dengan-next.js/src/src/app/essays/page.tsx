@@ -6,6 +6,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Esai',
     description: 'Kumpulan tulisan dan pemikiran saya.',
+    url: 'https://example.com/esai',
+    images: 'https://example.com/default-image.jpg',
   },
 };
 
@@ -14,7 +16,7 @@ const articles = [
     title: "Refleksi tentang sila pertama Pancasila ",
     description: 
     "Sila pertama Pancasila, Ketuhanan yang Maha Esa, menekankan pentingnya kepercayaan kepada Tuhan sebagai fondasi utama dalam kehidupan berbangsa dan bernegara. ",
-    slug: "/esai/sila-pertama",
+    slug: "/esai/sila-pertama", // nanti bisa digunakan saat slug sudah tersedia
   },
   {
     title: "Refleksi tentang sila kedua Pancasila ",
@@ -30,7 +32,7 @@ const articles = [
 
 export default function Essays() {
   return (
-    <div className="mt-16 px-8 pb-8"> {/* Tambahkan padding bawah */}
+    <div className="mt-16 px-8 pb-8">
       <header className="mb-8">
         <h1 className="font-bold text-4xl text-zinc-800">Esai</h1>
         <p className="text-zinc-600 mt-2">Kumpulan tulisan dan pemikiran saya.</p>
@@ -51,4 +53,3 @@ export default function Essays() {
     </div>
   );
 }
-
