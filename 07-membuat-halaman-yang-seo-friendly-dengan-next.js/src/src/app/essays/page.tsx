@@ -2,12 +2,10 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: 'Esai',
-  description: 'Kumpulan tulisan dan pemikiran saya.',
+  description: 'Halaman',
   openGraph: {
-    title: 'Esai',
-    description: 'Kumpulan tulisan dan pemikiran saya.',
-    url: 'https://example.com/esai',
-    images: 'https://example.com/default-image.jpg',
+    url: 'http://localhost:3000/images/essays.png',
+    images: 'http://localhost:3000',
   },
 };
 

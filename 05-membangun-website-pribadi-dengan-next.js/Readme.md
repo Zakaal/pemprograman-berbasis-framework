@@ -111,31 +111,11 @@
 1. **Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis.**
 
     Jawab : 
-
-    - Perubahan kode : 
-
-        <img src="assets/s/1a.png" width="700">
-
-    - Penjelasan : 
-        
-        Kode yang ditambahkan membentuk tampilan grid responsif untuk daftar artikel. Dengan memanfaatkan kelas Tailwind seperti `grid-cols-1`, `sm:grid-cols-2`, dan `md:grid-cols-3`, artikel ditampilkan dalam 1 hingga 3 kolom sesuai ukuran layar. Kelas `gap-6` memberi jarak antar elemen, dan `mb-12` memberi ruang di bawah grid. Setiap artikel ditampilkan dalam kartu bergaya border, rounded, dan efek hover, sehingga tampilan menjadi rapi dan menarik.
-
-    - Output : 
-
-        <img src="assets/s/1b.png" width="700">
+    
+    <img src="assets/s/1b.png" width="700">
 
 2. **Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik**
 
     Jawab : 
-
-    - Penambahan kode : 
-
-        <img src="assets/s/2a.png" width="700">
-
-    - Penjelasan : 
-
-        Penambahan kode bertujuan memperindah halaman "Tentang Saya" dengan menampilkan foto profil, nama, dan deskripsi secara terpusat. Elemen disusun vertikal menggunakan `flex-col`, gambar diberi ukuran dan bayangan agar terlihat rapi, serta teks nama dan deskripsi diberi styling agar tampak jelas dan menarik.
-    
-    - Output : 
-
-        <img src="assets/s/2b.png" width="700">
+        
+    <img src="assets/s/2b.png" width="700">

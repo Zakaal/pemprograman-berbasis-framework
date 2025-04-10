@@ -4,10 +4,11 @@ import Image, { StaticImageData } from 'next/image';
 
 export const metadata = {
   title: "Proyek Saya",
-  description: "Berikut adalah proyek-proyek yang telah saya buat.",
+  description: "Halaman Proyek",
   openGraph: {
-    images: "https://example.com/projects-og.png",
-    url: "https://example.com/projects",
+    images1: "https://localhost:3000/images/project1.png",
+    images2: "https://localhost:3000/images/project2.png",
+    url: "https://localhost:3000/projects",
   },
 };
 
