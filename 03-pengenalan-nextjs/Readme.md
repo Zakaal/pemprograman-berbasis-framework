@@ -90,3 +90,42 @@
 
 <img src="assets/6/output.png" width="550"/>
 <img src="assets/6/output2.png" width="550"/>
+
+## Tugas 
+
+### 1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API 
+
+Jawab : 
+
+
+Kode : 
+
+<img src="assets/tugas/index.png" width="700"/>
+
+Output : 
+
+<img src="assets/tugas/1.png" width="550"/>
+
+### 2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID. 
+
+Jawab : 
+
+Kode : 
+
+<img src="assets/tugas/1a.png" width="700"/>
+
+Output : 
+
+<img src="assets/tugas/2.png" width="550"/>
+
+### 3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
+
+Jawab : 
+
+Kode : 
+
+<img src="assets/tugas/weather.png" width="700"/>
+
+Output : 
+
+<img src="assets/tugas/3.png" width="550"/>
